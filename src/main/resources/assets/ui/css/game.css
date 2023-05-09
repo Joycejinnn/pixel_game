@@ -1,0 +1,28 @@
+.menu-button{
+    -fx-pref-width: 120px;
+    -fx-pref-height: 50px;
+    -fx-font-size: 23;
+}
+.grid-pane{
+    -fx-background-color: white;
+}
+.label{
+    -fx-pref-width: 120px;
+    -fx-pref-height: 50px;
+    -fx-font-size: 24;
+}
+.title{
+    -fx-font-size: 30;
+    -fx-pref-width: 350px;
+    -fx-pref-height: 60px;
+}
+.text-field{
+    -fx-font-size: 24;
+    -fx-pref-width: 140;
+    -fx-pref-height: 50;
+}
+.long-label{
+    -fx-pref-width: 400px;
+    -fx-pref-height: 50px;
+    -fx-font-size: 18;
+}
